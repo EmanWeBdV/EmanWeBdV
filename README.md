@@ -1,68 +1,49 @@
-<h1 align="center">Hey I'm Emanuele👋What's Up?</h1>
+# Hello 👋, I'm Emanuele Vaccaro
+### Jr Full Stack Web Developer
 
-###
+Welcome to my GitHub profile — I’m glad you’re here.
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/105670943?s=400&u=fabb49e80377fecb0cc573fca09936361b30799f&v=4"  />
-</div>
+I’m currently building my path as a Web Developer. I have always been passionate about technology, which is why I decided to turn this passion into a career.
 
-###
+Right now, I am attending a Web Developer Master’s program at EPICODE. Along the way, I have been studying HTML, including advanced topics such as accessibility and semantic, well-structured code through courses by Edoardo Midali.
 
-<h1 align="center">My Personal Skills</h1>
+I have also been studying CSS, from the fundamentals to more advanced concepts like animations, transitions, and modern styling techniques. Another important area I’m focusing on is responsive design, with the goal of creating websites and web applications that work well across all devices.
 
-###
+My learning journey also includes JavaScript, from basic to advanced concepts, as well as Node.js and MongoDB for backend development. On the frontend side, I am studying React and Bootstrap.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-</div>
+Step by step, I am building the skills I need to become a Full Stack Developer. I know I am still at the beginning of the journey, and I still have a lot to learn, but I am curious, motivated, and always ready to improve.
 
-###
+## Contact Me
+<p><a href="https://www.linkedin.com/in/emanuele-vaccaro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.emanuelevaccaro.it" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-<h1 align="center">My Social</h1>
+## Skills
 
-###
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/emanuele-vaccaro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## GitHub Stats
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=EmanWeBdV&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<h1 align="center">My History</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanWeBdV&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-###
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanWeBdV&theme=tokyonight" alt="GitHub Streak" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanWeBdV/EmanWeBdV/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanWeBdV/EmanWeBdV/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmanWeBdV/EmanWeBdV/output/pacman-contribution-graph.svg">
-</picture>
+## GitHub Trophies
 
-###
+<img src="https://github-profile-trophy.vercel.app/?username=EmanWeBdV" alt="trophy" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmanWeBdV&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanWeBdV&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## GitHub Activity Graph
 
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanWeBdV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
