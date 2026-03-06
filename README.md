@@ -33,15 +33,9 @@ Step by step, I am building the skills I need to become a Full Stack Developer. 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmanWeBdV&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanWeBdV&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanWeBdV&theme=tokyonight" alt="GitHub Streak" />
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=EmanWeBdV" alt="trophy" />
 
 ## GitHub Activity Graph
 
