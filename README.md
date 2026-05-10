@@ -1,43 +1,155 @@
-# Hello 👋, I'm Emanuele Vaccaro
-### Jr Full Stack Web Developer
+<div align="center">
 
-Welcome to my GitHub profile — I’m glad you’re here.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Emanuele%20Vaccaro&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" />
 
-I’m currently building my path as a Web Developer. I have always been passionate about technology, which is why I decided to turn this passion into a career.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Passionate+about+Web+Development;Frontend+%26+Backend+Enthusiast;Currently+studying+at+EPICODE;Building+modern+and+responsive+web+apps" alt="Typing SVG" />
 
-Right now, I am attending a Web Developer Master’s program at EPICODE. Along the way, I have been studying HTML, including advanced topics such as accessibility and semantic, well-structured code through courses by Edoardo Midali.
+<br/>
 
-I have also been studying CSS, from the fundamentals to more advanced concepts like animations, transitions, and modern styling techniques. Another important area I’m focusing on is responsive design, with the goal of creating websites and web applications that work well across all devices.
+<img src="https://komarev.com/ghpvc/?username=EmanWeBdV&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 
-My learning journey also includes JavaScript, from basic to advanced concepts, as well as Node.js and MongoDB for backend development. On the frontend side, I am studying React and Bootstrap.
+</div>
 
-Step by step, I am building the skills I need to become a Full Stack Developer. I know I am still at the beginning of the journey, and I still have a lot to learn, but I am curious, motivated, and always ready to improve.
+---
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/emanuele-vaccaro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.emanuelevaccaro.it" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+## 🚀 About Me
 
-## Skills
+Hi, I’m **Emanuele Vaccaro**, a Junior Full Stack Web Developer currently building my path in the tech world.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
-</p>
+I’m attending a Web Developer Master at **EPICODE** and I’m constantly improving my skills through practice, courses, and personal projects.
 
-## GitHub Stats
+I’m passionate about clean code, modern interfaces, responsive design, accessibility, and building digital experiences that are both useful and visually engaging.
 
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanWeBdV&theme=tokyonight" alt="GitHub Streak" />
+## 🛠 Tech Stack
 
+<div align="center">
 
-## GitHub Activity Graph
+### Frontend
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanWeBdV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,netlify" />
+
+### AI & Productivity
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- React
+- Node.js & Express
+- MongoDB
+- Responsive Design
+- Accessibility
+- Full Stack Development
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript |
+| Web App Projects | Practice projects from my learning journey | React, Bootstrap |
+| Backend Exercises | Server-side development practice | Node.js, Express, MongoDB |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmanWeBdV&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmanWeBdV&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanWeBdV&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanWeBdV&theme=tokyo-night&hide_border=true&radius=16&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0ibbzxk7hqi8smzv6wyvqa0fx&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0ibbzxk7hqi8smzv6wyvqa0fx&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=38bdf8&bar_color_cover=false">
+</a>
+
+</div>
+
+---
+
+## ⚡ Weekly Development Breakdown
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=emanwebdv&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🌐 Portfolio & Contacts
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emanuele-vaccaro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.emanuelevaccaro.it" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ✨ A Little More About Me
+
+```js
+const emanuele = {
+  role: "Junior Full Stack Developer",
+  currentlyLearning: ["React", "Node.js", "MongoDB"],
+  passions: ["Web Development", "Technology", "UI Design"],
+  mindset: "Keep learning. Keep building."
+};
