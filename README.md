@@ -14,11 +14,13 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Emanuele Vaccaro**, a Junior Full Stack Web Developer currently building my path in the tech world.
+Hi, I’m Emanuele Vaccaro, a Junior Full Stack Developer based in Italy.
 
-I’m attending a Web Developer Master at **EPICODE** and I’m constantly improving my skills through practice, courses, and personal projects.
+I focus on building modern web applications, dashboards, internal tools and AI-powered solutions using technologies such as React, Node.js, APIs and databases.
 
-I’m passionate about clean code, modern interfaces, responsive design, accessibility, and building digital experiences that are both useful and visually engaging.
+I’m currently improving my skills through EPICODE and real-world projects, with a strong interest in product development, SaaS platforms, automation and clean user experiences.
+
+My goal is to grow as a product-oriented developer, building useful and scalable digital tools rather than simple static websites.
 
 ---
 
@@ -62,11 +64,14 @@ I’m passionate about clean code, modern interfaces, responsive design, accessi
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 | Project | Description | Tech |
 |---|---|---|
-| Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript |
-| Web App Projects | Practice projects from my learning journey | React, Bootstrap |
-| Backend Exercises | Server-side development practice | Node.js, Express, MongoDB |
+| Solar Quote Dashboard | Web app for managing solar leads, quote generation, PDF export and email automation | React, Node.js, Supabase, APIs |
+| NessOps Demo | Internal operations dashboard concept for managing workflows and data | TypeScript, React, API integrations |
+| Tech Store E-Commerce | Responsive e-commerce web app with product rendering, detail pages, cart logic and admin area | JavaScript, HTML, CSS, Bootstrap |
+| React Countries App | React app using API calls, state management, routing and responsive UI | React, API, Bootstrap |
 
 ---
 
@@ -136,7 +141,7 @@ I’m passionate about clean code, modern interfaces, responsive design, accessi
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:hello@emanuelevaccaro.it">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
