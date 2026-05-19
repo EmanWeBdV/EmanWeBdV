@@ -64,8 +64,6 @@ My goal is to grow as a product-oriented developer, building useful and scalable
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 | Project | Description | Tech |
 |---|---|---|
 | Solar Quote Dashboard | Web app for managing solar leads, quote generation, PDF export and email automation | React, Node.js, Supabase, APIs |
